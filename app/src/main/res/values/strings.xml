@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HomeWork3</string>
+    <string name="about">Weather App by KK</string>
+    <string name="actionHide">Hide</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
